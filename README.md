@@ -11,45 +11,68 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| N/A          | <a href="https://google.com">Detection Lab</a>|
+| N/A | <a href="https://google.com">Detection Lab</a>|
+| N/A         | <a href="https://google.com">Detection Lab</a>|
+| N/A    | <a href="https://google.com">Detection Lab</a>|
+| N/A              | <a href="https://google.com">Detection Lab</a>|
+| N/A| <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scapy-3776AB?style=for-the-badge&logo=Scapy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D4?style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-000000?style=for-the-badge&logo=Netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SSH-2C2E3B?style=for-the-badge&logo=SSH&logoColor=white" />
 </div>
 
-### Endpoint
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot%20OS-1DE9B6?style=for-the-badge&
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />    
 </div>
 
-### SIEM
+### Pentesting
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2A82DA?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT-005571?style=for-the-badge&logo=searchengineland&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-FF4500?style=for-the-badge&logo=gobuster&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-8B0000?style=for-the-badge&logo=hydra&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-CCA300?style=for-the-badge&logo=sqlmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-000000?style=for-the-badge&logo=shodan&logoColor=white" />
+</div>
+
+### Cryptography | Encryption
+<div>
+    <img src="https://img.shields.io/badge/-VeraCrypt-009379?style=for-the-badge&logo=veracrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KeePass-6C5392?style=for-the-badge&logo=keepass&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white" />
+</div>
+
+### Threat Detection
+<div>    
+     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Snort-F80000?style=for-the-badge&logo=snort&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+     <img src="https://img.shields.io/badge/-pfSense-003399?style=for-the-badge&logo=pfsense&logoColor=white" />  
 </div>
 
 ## Certifications
 
 <div>
-    EC-Council CSCU | Certified Secure Computer User
+    EC-Council CSCU | Certified Secure Computer User <a href="ECC-CSCU-Certificate.pdf"><img src="https://img.shields.io/badge/-EC--Council-FF0000?style=for-the-badge&logo=e&logoColor=white" />
 
-<div>
-<a href="ECC-CSCU-Certificate.pdf"><img src="https://images.credly.com/size/200x200/images/4de1c3b8-f9f6-4447-8879-e4f74012f8b8/blob.png"/>
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
