@@ -1,11 +1,11 @@
 # Hello, I'm Jack
 <a href="https://linkedin.com/in/perryj"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a soon-to-be Deakin Bachelor of Cyber Security graduate with a profound interest in penetration testing and a dedication to solving complex problems. With prior studies and a background in Psychological Science, throughout my studies I've been facinated by the recurring Social Engineering vulnerabilites idetified throughout the cybersecurity field. 
+I am a soon-to-be Deakin Bachelor of Cyber Security graduate with a profound interest in penetration testing and a dedication to solving complex problems. With prior studies and a background in Psychological Science, throughout my studies I've been facinated by the recurring Social Engineering vulnerabilites identified throughout the cybersecurity field. 
 
 ## Objective
 
-Graduating with my bachelors in cybersecurity early next year, I’m eager to enter the industry in a position where I can both continue leanring and begin applying my skills to make making meaningful contributions. With a minor in business management and background in psychology I have valuable communication skills allowing me to work efficiently on independant and collaborative projects. With a vested interest and a strong foundational knowledge of technical processes, I'm a fast learner, able to easily adapte to my environment. 
+Graduating with my bachelors in cybersecurity early next year, I’m eager to enter the industry in a position where I can both continue learning and begin applying my skills to make meaningful contributions. With a minor in business management and background in psychology I have valuable communication skills allowing me to work efficiently on independant and collaborative projects. With a vested interest in computer systems and a strong foundational knowledge of technical processes, I'm a fast learner, able to easily adapt to my environment. 
 
 ## Skills
 
