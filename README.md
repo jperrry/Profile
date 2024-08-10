@@ -42,13 +42,12 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    EC-Council CSCU | Certified Secure Computer User
+
+<div>
+<a href="ECC-CSCU-Certificate.pdf"><img src="https://images.credly.com/size/200x200/images/4de1c3b8-f9f6-4447-8879-e4f74012f8b8/blob.png"/>
 </div>
 
 ## Projects
