@@ -12,11 +12,11 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Remote Access Keylogging          | <a href="Keylogging - Remote Access Meterpreter .pdf">Project</a>|
-| N/A | <a href="https://google.com">Project</a>|
-| N/A         | <a href="https://google.com">Project</a>|
-| N/A    | <a href="https://google.com">Project</a>|
-| N/A              | <a href="https://google.com">Project</a>|
-| N/A| <a href="https://google.com">Project</a>|
+| SQL Injection w/ Findings Report | <a href="SQL Report + Exploitation.pdf">Project</a>|
+| Social Engineering - SET Phishing         | <a href="Social Engineering Attack - SET Phishing + flood_dos + hping3_dos.pdf">Project</a>|
+| Cyber Security Trainging Artifact    | <a href="Cyber Awareness Training Artifact.rar">Project</a>|
+| Splash IT Security Audit              | <a href="Splash IT Security Audit.pdf">Project</a>|
+| Tor Report    | <a href="Tor Report.pdf">Project</a>|
 
 ## Tools
 
