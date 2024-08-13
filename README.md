@@ -11,12 +11,12 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Remote Access Keylogging          | <a href="Keylogging - Remote Access Meterpreter .pdf">Detection Lab</a>|
-| N/A | <a href="https://google.com">Detection Lab</a>|
-| N/A         | <a href="https://google.com">Detection Lab</a>|
-| N/A    | <a href="https://google.com">Detection Lab</a>|
-| N/A              | <a href="https://google.com">Detection Lab</a>|
-| N/A| <a href="https://google.com">Detection Lab</a>|
+| Remote Access Keylogging          | <a href="Keylogging - Remote Access Meterpreter .pdf">Project</a>|
+| N/A | <a href="https://google.com">Project</a>|
+| N/A         | <a href="https://google.com">Project</a>|
+| N/A    | <a href="https://google.com">Project</a>|
+| N/A              | <a href="https://google.com">Project</a>|
+| N/A| <a href="https://google.com">Project</a>|
 
 ## Tools
 
