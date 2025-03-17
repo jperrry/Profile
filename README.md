@@ -7,7 +7,7 @@ I am a soon-to-be Deakin Bachelor of Cyber Security graduate with a profound int
 
 Graduating with my bachelors in cybersecurity early next year, I’m eager to enter the industry in a position where I can both continue learning and begin applying my skills to make meaningful contributions. With a minor in business management and background in psychology I have valuable communication skills allowing me to work efficiently on independant and collaborative projects. With a vested interest in computer systems and a strong foundational knowledge of technical processes, I'm a fast learner, able to easily adapt to my environment. 
 
-## Projects
+## Formal Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -17,6 +17,20 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 | Cyber Security Trainging Artifact    | <a href="Cyber Awareness Training Artifact.rar">Project RAR</a>|
 | Splash IT Security Audit              | <a href="Splash IT Security Audit.pdf">Project PDF</a>|
 | Tor Report    | <a href="Tor Report.pdf">Project PDF</a>|
+
+## Personal Projects
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Workstation Upgrade          | <a href="">Project PDF</a>|
+| Custom NAS | <a href="">Project PDF</a>|
+| Arduino - Automatic Plant Watering         | <a href="">Project PDF</a>|
+| MacBook A2337 - Screen Replacement    | <a href="">Project RAR</a>|
+| Router Configuration - Secondary AP             | <a href="">Project PDF</a>|
+| Raspberrry Pi Home Server    | <a href="">Project PDF</a>|
+| De-Googling    | <a href="">Project RAR</a>|
+| Custom Wireless Breakout Module        | <a href="">Project PDF</a>|
+| Local Minecraft Server   | <a href="">Project PDF</a>|
 
 ## Tools
 
