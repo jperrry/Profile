@@ -24,7 +24,7 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 |-----------------------------------------------|----------------------------|
 | Workstation Upgrade          | <a href="Workstation Upgrade.pdf">Project PDF</a>|
 | Custom NAS | <a href="Homemade NAS.pdf">Project PDF</a>|
-| Arduino - Automatic Plant Watering         | <a href="Automatic Plant Watering.pdf">Project PDF</a>|
+| Arduino - Automatic Plant Watering         | <a href="">Project PDF</a>|
 | MacBook A2337 - Screen Replacement    | <a href="MacBook A2337 - Screen Replacement.pdf">Project PDF</a>|
 | Router Configuration - Secondary AP             | <a href="">Project PDF</a>|
 | Raspberrry Pi Home Server    | <a href="">Project PDF</a>|
