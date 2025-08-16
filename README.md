@@ -23,14 +23,11 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Workstation Upgrade          | <a href="Workstation Upgrade.pdf">Project PDF</a>|
-| Custom NAS | <a href="Homemade NAS.pdf">Project PDF</a>|
-| Arduino - Automatic Plant Watering         | <a href="Automatic Plant Watering.pdf">Project PDF</a>|
-| MacBook A2337 - Screen Replacement    | <a href="MacBook A2337 - Screen Replacement.pdf">Project PDF</a>|
-| Router Configuration - Secondary AP             | <a href="">Project PDF</a>|
+| Custom NAS | <a href="Homemade NAS.md">Project MD</a>|
+| Arduino - Automatic Plant Watering         | <a href="Automatic Plant Watering.md">Project MD</a>|
+| MacBook A2337 - Screen Replacement    | <a href="MacBook A2337 - Screen Replacement.md">Project MD</a>|
+| Router Configuration - Secondary AP             | <a href="Secondary Access Point.md">Project MD</a>|
 | Raspberrry Pi Home Server    | <a href="">Project PDF</a>|
-| De-Googling    | <a href="">Project RAR</a>|
-| Custom Wireless Breakout Module        | <a href="">Project PDF</a>|
-| Local Minecraft Server   | <a href="">Project PDF</a>|
 
 ## Tools
 
