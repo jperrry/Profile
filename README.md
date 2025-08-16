@@ -27,7 +27,7 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 | Arduino - Automatic Plant Watering         | <a href="Automatic Plant Watering.md">Project MD</a>|
 | MacBook A2337 - Screen Replacement    | <a href="MacBook A2337 - Screen Replacement.md">Project MD</a>|
 | Router Configuration - Secondary AP             | <a href="Secondary Access Point.md">Project MD</a>|
-| Raspberrry Pi Home Server    | <a href="">Project PDF</a>|
+| Bash Random Password Generator    | <a href="password_generator.sh">Bash Script</a>|
 
 ## Tools
 
