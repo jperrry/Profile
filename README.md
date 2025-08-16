@@ -22,7 +22,7 @@ Graduating with my bachelors in cybersecurity early next year, I’m eager to en
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Workstation Upgrade          | <a href="Workstation Upgrade.pdf">Project PDF</a>|
+| Workstation Upgrade          | <a href="Workstation Upgrade.md">Project MD</a>|
 | Custom NAS | <a href="Homemade NAS.md">Project MD</a>|
 | Arduino - Automatic Plant Watering         | <a href="Automatic Plant Watering.md">Project MD</a>|
 | MacBook A2337 - Screen Replacement    | <a href="MacBook A2337 - Screen Replacement.md">Project MD</a>|
